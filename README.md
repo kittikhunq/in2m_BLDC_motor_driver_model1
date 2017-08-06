@@ -15,3 +15,10 @@ http://www.ti.com/lit/zip/slvc626
 Additional info:
 DRV8305	Three Phase Gate Driver with Three Integrated Current Shunt Amplifiers:
 http://www.ti.com/product/drv8305
+
+MCU board
+http://www.ti.com/tool/LAUNCHXL-F28069M
+
+Useful info. frim TI's community
+-https://e2e.ti.com/support/microcontrollers/c2000/f/171/t/396813
+-https://e2e.ti.com/support/microcontrollers/c2000/f/902/p/573679/2104699
